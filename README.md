@@ -8,6 +8,7 @@
 
 ## 💻 Hướng Dẫn Trên Máy Tính
 - [Tải xuống Python 3.12.2 nếu chưa có](https://www.python.org/downloads/release/python-3120/)<br/>
+> Tự gắn proxy sài nha ae hỗ trợ loại http/https, không gắn proxy là không sài được đâu :Đ
 ### ⚙️ Cài Đặt Môi Trường
 
 ```bash
