@@ -29,7 +29,8 @@ python zLocket-Tool.py
 
 ### 🏀 Hướng Dẫn Trên Google Shell (Cloud Shell)
 
-Lên **App Store** để tải xuống ứng dụng **Google Cloud** - [Nhấn vào đây để tải xuống](https://apps.apple.com/us/app/google-cloud/id1005120814)
+Lên **App Store** để tải xuống ứng dụng **Google Cloud** - [Nhấn vào đây để tải xuống](https://apps.apple.com/us/app/google-cloud/id1005120814)<br>
+Tôi thấy Google Shell đã tích hợp sẵn các thứ cần thiết nên không cần setup gì nhiều
 ### 🐍 Cài Đặt PIP
 ```bash
 sudo apt install -y python3-pip
