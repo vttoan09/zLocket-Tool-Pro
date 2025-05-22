@@ -42,8 +42,11 @@ sudo apt install -y python3-pip
 git clone https://github.com/WusThanhDieu/zLocket-Tool-Pro.git
 ```
 > Lệnh cài môi trường và pip giống lệnh trên máy tính nên không cần hướng dẫn ở đây
+### 📂 Đến Thư Mục Tool
+```bash
+cd zLocket-Tool-Pro
+```
 ### 🏃 Chạy Tool
-
 ```bash
 python zLocket-Tool.py
 ```
