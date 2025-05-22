@@ -1,5 +1,5 @@
 
-# 🚀 zLocket Tool Pro v1.0.6 🚀
+# 🚀 zLocket Tool Open Source v1.0.6 🚀
 
 ![Demo](https://img.upanh.tv/2025/05/22/Screenshot-2025-05-22-154810b90ede21fb12bd34.png)
 
