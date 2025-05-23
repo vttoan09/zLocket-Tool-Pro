@@ -46,9 +46,13 @@ git clone https://github.com/WusThanhDieu/zLocket-Tool-Pro.git
 ```bash
 cd zLocket-Tool-Pro
 ```
-### 📂 Lấy Proxy Nếu Chưa Có
+### 📂 Lấy Proxy Nếu Chưa Có (Mõi lần chạy tool thì CURL 1 lần nhé)
 ```bash
 curl -o proxy.txt "https://thanhdieu.com/api/list/proxyv3.txt"
+```
+>Hoặc
+```bash
+curl -o proxy.txt "https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&protocol=http&proxy_format=protocolipport&format=text&timeout=20000"
 ```
 ### 🏃 Chạy Tool
 ```bash
