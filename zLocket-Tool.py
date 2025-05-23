@@ -265,7 +265,7 @@ class zLocket:
     def fetch_token(self, retry=0, max_retries=3):
         if retry == 0:
             self._print(
-                f"{xColor.MAGENTA}[*] {xColor.CYAN}Initializing token authentication _sequence_")
+                f"{xColor.MAGENTA}[*] {xColor.CYAN}Initializing token authentication sequence")
             self._loader_("Establishing secure connection", 1)
         if retry >= max_retries:
             self._print(
@@ -753,7 +753,7 @@ def init_proxy():
         config._loader_("Shutting down system", 1)
         sys.exit(1)
     config._print(
-        f"{xColor.MAGENTA}[*] {xColor.CYAN}Randomizing proxy _sequence_ for optimal distribution")
+        f"{xColor.MAGENTA}[*] {xColor.CYAN}Randomizing proxy sequence for optimal distribution")
     random.shuffle(proxies)
     config._loader_("Optimizing proxy rotation algorithm", 1)
     proxy_queue=Queue()
